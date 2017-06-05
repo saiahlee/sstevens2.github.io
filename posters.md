@@ -1,4 +1,9 @@
-Posters:
+---
+layout: default
+comments: true
+title: Posters
+---
+
 
 [ISME16 - 2016](https://drive.google.com/file/d/0Bwlo0AMx9pqmeE5zYVBtNmlIRk0/view?usp=sharing)
 
