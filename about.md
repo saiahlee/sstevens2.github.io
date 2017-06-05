@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a PhD Candidate in the Microbiology Doctoral Training Program at University of Wisconsin - Madison. I currently work in the McMahon Lab studying freshwater microbes in lakes in Wisconsin. I am focused on using reference genomes (genomes from metagenomes and single-cell genomes) of unculturable but common freshwater bacteria to understanding how the diversity of the related bacterial populations changes through time using a metagenomic time series. This work is being done in collaboration with the DOE Joint Genome Institute. My research interests, very generally, include Microbial Ecology, Genomics, Environmental Microbiology, Computational Biology/Bioinformatics, and Limnology.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am very passioate about reproducible research and open science and over the years I have taught many labmates and other graduate students to use unix/command-line and python/R. This experience helped me discover my own interest in teaching researchers computational skills. Along that line, teach Software Carpentry(and Data Carpentry) workshops and started a local study group called Computation Biology, Ecology, and Evolution (ComBEE) group. ComBEE provides an opportunity for researchers to discuss new computational tools and learn bioinformatics skills together. We also host both a python and R study groups on a bi-weekly basis.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sarahlrstevens@gamil.com](mailto:sarahlrstevens@gamil.com)
