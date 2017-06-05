@@ -1,5 +1,8 @@
-
-Talks:
+---
+layout: post
+title: Talks
+permalink: /talks/
+---
 
 
 [UW Library RDS  Brownbag - 2016 - Madison, WI](https://drive.google.com/file/d/0Bwlo0AMx9pqmMmJZcmZaa1hqVE0/view?usp=sharing)
