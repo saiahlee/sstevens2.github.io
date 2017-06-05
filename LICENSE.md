@@ -1,4 +1,6 @@
 
+Jekyll Template was originally forked from [barryclark/jekyll-now](https://github.com/barryclark/jekyll-now)
+
 My parts of this web site are licensed under
 [CC BY NC SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
