@@ -10,4 +10,4 @@ I am very passioate about reproducible research and open science and over the ye
 
 ### Contact me
 
-[sarahlrstevens@gamil.com](mailto:sarahlrstevens@gamil.com)
+[sarahlrstevens@gmail.com](mailto:sarahlrstevens@gmail.com)
