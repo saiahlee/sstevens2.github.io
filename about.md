@@ -12,7 +12,8 @@ My research interests, very generally, include Microbial Ecology, Genomics, Envi
 
 I am very passionate about reproducible research and open science and over the years I have taught many labmates and other graduate students to use unix/command-line and python/R.
 This experience helped me discover my own interest in teaching researchers computational skills.
-Along that line, I teach [Software Carpentry](https://software-carpentry.org/)(and [Data Carpentry](http://www.datacarpentry.org/)) workshops and started a local study group called [Computation Biology, Ecology, and Evolution (ComBEE) group](https://sites.google.com/a/wisc.edu/combee/). [ComBEE](https://sites.google.com/a/wisc.edu/combee/) provides an opportunity for researchers to discuss new computational tools and learn bioinformatics skills together.
+Along that line, I teach [Software Carpentry](https://software-carpentry.org/)(and [Data Carpentry](http://www.datacarpentry.org/)) workshops and started a local study group called [Computation Biology, Ecology, and Evolution (ComBEE) group](combee-uw-madison.github.io). 
+[ComBEE](combee-uw-madison.github.io) provides an opportunity for researchers to discuss new computational tools and learn bioinformatics skills together.
 We also host both a python and R study groups on a bi-weekly basis.
 
 ### Contact me
