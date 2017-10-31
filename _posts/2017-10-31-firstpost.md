@@ -37,25 +37,26 @@ I'm hoping through this blog I can share my experiences and help others create a
 
 However the final push to start a blog came from a great talk I attended by [Liz Neeley](https://www.storycollider.org/team-bios/liz-neeley) and [Ed Yong](https://www.theatlantic.com/author/ed-yong/) about telling your story.
 
-![tell your story slide](https://photos.app.goo.gl/Fm8yhUMXV2M99ApY2) 
-(Sorry for the grainy picture where you can't see the speakers. I was really far back in the room.)
+<img src="https://lh3.googleusercontent.com/WpZPePI0JQSe-GA0GYXUJsUW-edQxDcUNUIxP9VvH7CGlzoGssWEkIteE7RECtjMWu0zLo9LyZYc5utXfe59NL2pN61sOIPdXdVH7oSxY7RCn74vjC9RbzpR_W9m_kRJK0n9NRCocYENBRcwVW5WGa0lBNvWNccBgwAs4m2V6ttH0U--y5H3BeQR-ymRnpwvNluLuRatxgQKJpuoNM5pWGFLDhoMUNabwFTi0dWGtjWUH-FB4IJyGzV30JRLW9-KoPRMThtQanzjP4hKRdrHc8vGTIOhGQXOmNND26UUhx5slI_GaeHMEoOxZuMn3q3nlcjgvRQRfzbozITuMPcLl5lv2QcH1QYF8bRhuud0Y1dVoYbuGi0EXXPKn6jetBmura0pcvwR3ltDPEGkqsc7Rl7aDgvKWJBmH_u54qfaW8RMiCef3ARCuKsLetj4u4-aHe_wiqO_2WAiuHZQuiWFA2wTnCENYGCAUDPOhI57PqtK_1HgJ1zQIE3m976kbB0iZod2aiiM5cKeult3JkmQEGS1xhSnGt_qm-koL8FmuEa2BmUOx2m1J3vmlXuRSCHBkxqhwpoGDP9MkHiAC66Hy9w-1LP8Yg2Ocf4oLnyZcQ=w1253-h937-no" alt="picture of tell your story slide" style="width: 400px;"/>
 
-This talk got me thinking again and led to me writing up notes for this post and making lists of blog post ideas.  And here we are!
+(Sorry for the grainy picture where you can't see the speakers very well. I was really far back in the room.)
+
+This talk got me thinking about a blog again and led to me writing up notes for this post and making lists of blog post ideas.  And here we are!
 
 ### Let's get started!
 
-Well here is my first post but I'm going to make a goal and state it here to keep me accountable.
+Well this is my first post but to keep it going I'm going to make a goal and state it here to keep me accountable.
 
-> I **will** post a blog post every two weeks until I  run out of topics on my list (which should last us about 3 months if I don't think of any new ones).
+> I **will** post a blog post every two weeks until I  run out of topics on my list (~3 months if I don't think of any new ones).
 
-#### How you can help?
+### How you can help?
 
 Post some encouragement!  While this is obviously a cheap trick for comments :wink:, I'd love to hear from you.  I will moderate any haters/trolls though. 
 
 [swc]: https://software-carpentry.org/
 [dc]: http://www.datacarpentry.org/
 [mozilla]: https://science.mozilla.org/
-[mozilla-sg]: 
+[mozilla-sg]: https://science.mozilla.org/programs/studygroups
 [swc-environment]: https://carpentries.github.io/instructor-training/08-motivation/
 [swc-feedback]: https://carpentries.github.io/instructor-training/06-feedback/
 [combee]: combee-uw-madison.github.io
