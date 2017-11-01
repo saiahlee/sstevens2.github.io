@@ -21,7 +21,7 @@ There are so many reasons to have a blog:
 ### So what has held me back?  Why didn't I do this sooner?
 
 Well the internet is often a harsh place and I've found that out the hard way.
-I was in high schools when blogs rose to popularity and high schoolers can be *mean*.
+I was in high school when blogs rose to popularity and high schoolers can be *mean*.
 
 Even in grad school I've had demotivating experiences (which I won't go into) that increased my anxiety about asking questions and putting my words on the internet.
 Though this is troublesome because it is really hard to learn new computational skills when you are afraid of asking questions on the internet.
@@ -33,7 +33,7 @@ I spend on average probably 15 min contemplating each tweet because it makes me 
 
 A couple of factors have come together to motivate me to start this blog.
 
-In the past few years, I've become a part of some awesome open science communities - [Software Carpentry](swc)/[Data Carpentry](dc) and [Mozilla Science Lab](mozilla).
+In the past few years, I've gotten involved in some awesome open science communities - [Software Carpentry](swc)/[Data Carpentry](dc) and [Mozilla Science Lab](mozilla).
 
 I've learned a lot about how to give and [get feedback](swc-feedback) and [creating a positive learning environment](swc-environment) when I learned to be a [Software Carpentry](swc) intructor.
 I started my own [study group](mozilla-sg), [ComBEE](combee), to help create such an environment for biologists (_but you don't have to be a biologist to come to our events_) on my campus who want to learn computational skills.  It is important to me that others don't have bad experiences and become demotivated trying to learn computation/bioinformatics.
@@ -41,7 +41,7 @@ I'm hoping through this blog I can share my experiences and help others create a
 
 However the final push to start a blog came from a great talk I attended by [Liz Neeley](https://www.storycollider.org/team-bios/liz-neeley) and [Ed Yong](https://www.theatlantic.com/author/ed-yong/) about telling your story.
 
-<img src="https://lh3.googleusercontent.com/WpZPePI0JQSe-GA0GYXUJsUW-edQxDcUNUIxP9VvH7CGlzoGssWEkIteE7RECtjMWu0zLo9LyZYc5utXfe59NL2pN61sOIPdXdVH7oSxY7RCn74vjC9RbzpR_W9m_kRJK0n9NRCocYENBRcwVW5WGa0lBNvWNccBgwAs4m2V6ttH0U--y5H3BeQR-ymRnpwvNluLuRatxgQKJpuoNM5pWGFLDhoMUNabwFTi0dWGtjWUH-FB4IJyGzV30JRLW9-KoPRMThtQanzjP4hKRdrHc8vGTIOhGQXOmNND26UUhx5slI_GaeHMEoOxZuMn3q3nlcjgvRQRfzbozITuMPcLl5lv2QcH1QYF8bRhuud0Y1dVoYbuGi0EXXPKn6jetBmura0pcvwR3ltDPEGkqsc7Rl7aDgvKWJBmH_u54qfaW8RMiCef3ARCuKsLetj4u4-aHe_wiqO_2WAiuHZQuiWFA2wTnCENYGCAUDPOhI57PqtK_1HgJ1zQIE3m976kbB0iZod2aiiM5cKeult3JkmQEGS1xhSnGt_qm-koL8FmuEa2BmUOx2m1J3vmlXuRSCHBkxqhwpoGDP9MkHiAC66Hy9w-1LP8Yg2Ocf4oLnyZcQ=w1253-h937-no" alt="picture of tell your story slide" style="width: 400px;"/>
+<img src="https://lh3.googleusercontent.com/uHz-yIDZ8zNyz52o1K5IsuqeGiLU2sSgZ3YgmCet9ygzuCpGTFGaFn3V2Mdcp3N6KjBiY0EhzxWR5JGCl478k1dKXABuIOeBRxrJwbMsKr3VWdDF26fuQ1tXe9RLCuMpk73mnzfGANVbG5wxGJ6Y6_5t0xIytbVrXFEqEgrRIvpEUpOIYNyz8WaQfTE_M9llxQi207tMTYeF4tfZ8AcTTyLRG-vRINFQ-wlI-QOQ_WAJxlTP1bBgGiGHVZ1Mf4e7175CgnM-qL3dm0dX6mIvj2j0wLZ8VelIfC8k0PwvTfgvE3Zp-7WWilkqGjjnpnIwixC7ef9gszkJYsZq5yH7Clo5St6qW5jIFCb39ymxp_Mg3L9sGiEwGfp5n5frSnp4_W3o2iOYKc-g1E3eVc-p5dqU_mNOCjFVaLl1RH92OGyHFycbH4IF27LnuMj6soQWuwbt_ROZUY_pegWb8b2JynRypEUD40XsKCwyAZOLUDxrcDrLpqQ_ntSjT6-ejuQgnsTOWcz_zm7WZsR3m_Z4h029mJuCUxIC6IIq1tNuf3Yf5nFRRTeAXUBBqp6OJkj7LJ2x5RND974ZImtAnn1OEhpnNzveWOSyNAe61s_05w=w1054-h788-no" alt="picture of tell your story slide" style="width: 400px;"/>
 
 (Sorry for the grainy picture where you can't see the speakers very well. I was really far back in the room.)
 
