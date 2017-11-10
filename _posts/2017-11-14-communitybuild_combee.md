@@ -37,8 +37,15 @@ But the group still meets at the same intervals and the most important things ha
 
 ## What I've learned
 
-1. Don't do it alone!
-Mozilla!!!
+1. Don't reinvent the wheel
+I'd never really seen a study group before and kind of made it up as I went along but there are resources out there.
+I started out with a sad looking website and a listserv and absolutely no idea what I was doing.
+While I've learned a lot, I recommend starting with the [Mozilla Study Group](mozilla-sg) materials from [Mozilla Science lab](mozilla).
+They have put together a guide on starting your own study group, which includes a nice template for setting up a beautiful website and links to lessons from other study groups. 
+They have community calls with other study group leaders about once a month which I find great for idea and support.
+
+Please feel free to comment with other study group guides/materials if you know of them.
+
 2. Pick a good name
 While this is slightly funny it has actually been a tripping point for our group. MomIEE story and recruiting people outside micro.
 3. Advertise
