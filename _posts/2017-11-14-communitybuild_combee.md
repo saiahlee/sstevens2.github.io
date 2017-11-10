@@ -53,8 +53,6 @@ Both for leadership and for getting people involved and keeping them.
 [dc]: http://www.datacarpentry.org/
 [mozilla]: https://science.mozilla.org/
 [mozilla-sg]: https://science.mozilla.org/programs/studygroups
-[swc-environment]: https://carpentries.github.io/instructor-training/08-motivation/
-[swc-feedback]: https://carpentries.github.io/instructor-training/06-feedback/
 [combee]: combee-uw-madison.github.io
-[psg]: 
-[rsg]: 
+[psg]: https://github.com/ComBEE-UW-Madison/PythonStudyGroup/blob/master/README.md#combee-python-study-group--uw-madison
+[rsg]: https://github.com/ComBEE-UW-Madison/RStudyGroup#combee-r-study-group--uw-madison
