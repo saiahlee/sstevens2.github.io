@@ -60,9 +60,9 @@ About 6-9 months later, I advised a labmate that MoMIEE would be a good resource
 He replied with something like, "But I'm not a woman scientist with a child."
 So turns out the name was misleading.
 
-On a more serious note, my co-chair told me that 'Molecular' was turning away genetics students and I suspect that there are others that might be turned away by the name.
-I originally indented this group for researchers in my subfield but Python and R Study meetings are generally useful for anyone starting to code.
-I've gotten a number of emails from people asking if they could come to Python study group even though they didn't study our area.
+On a more serious note, my co-chair told me that 'Molecular' was turning away genetics students and I suspect that there are others that might have turned away due to the name.
+I originally intended this group for researchers in my subfield but Python and R Study meetings are generally useful for anyone starting to code.
+I've gotten a number of emails from people asking if they could come to Python Study Group even though they didn't study our area.
 I can't imagine the number of people who never even emailed.
 I frequently debate if I should have named the group something more general like the [UofTCoders](UofT) in Toronto.
 
@@ -71,7 +71,7 @@ TL;DR - Think carefully about your group's scope/goals and pick a good name.
 ### Advertise as widely as possible
 
 Every year at the beginning of the year, I would think of as many email lists as I could and send them a recruiting email.
-Still even this year, we have new people who have come to python study group saying they had never heard of [ComBEE](combee) until this year.
+Still even this year, we have new people who have come to Python Study Group saying they had never heard of [ComBEE](combee) until this year.
 I also never thought about putting flyers up on the jumbotrons in my building until it was suggested in Python Study Group.
 We've gotten a lot of people in the building that way.
 As far as I can tell, you can't advertise too much.
