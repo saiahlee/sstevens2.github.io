@@ -3,11 +3,11 @@ layout: post
 comments: true
 title: Community Building - Starting A Study Group
 author: Sarah Stevens
-date: 2017-11-14
+date: 2017-11-11
 ---
 
 To start with, **many thanks** to all the people who posted encouraging comments on my [first post](firstpost).
-I really appreciated all the support and shared experiences.
+I really appreciate all the support and shared experiences.
 
 ## The need for study groups
 
@@ -18,16 +18,21 @@ While I think that [Software Carpentry](swc) and [Data Carpentry](dc) workshops 
 And along comes study groups.
 One of the things I love about the study group model is that your study group can be whatever the community needs.
 
+
 ## A brief history of ComBEE
+
+<img src="https://lh3.googleusercontent.com/jOBtevXwXYKp2ydZhUXJaGc6QIm2TK5OUM6DqotOy9fXDCWZx8XkJOzDLClG0aodvvSvRXpzTon8VgF3ioflWelaY_aXnj1GKiPwWtnp99y82_Ef945iuQBFZ5UjJzkzpDoTWLoI3osfXYX_o1FLUNXdQuc6_ZY4qnQuFi6I-w08Erf9WGWvmSO9oLo9EqVPNQW48HyRLziwDsitsRpz1_2ocJQhFDNNfMXa-__z_XUVRsGIQ1VnVfuTVKqXMpr_qKecE9eLNyXTdAuln_oQ7RXqFa6_aQNSaxdh0s5HCHBhoOd8o0aS7b8ofXrTXdBo_ln5rHoj9r9ELjUJKedhkUX8Zg4hJmlGMnOibmlGeMhHu6F8PFWPUH_asTnVgBwmPn18yYB53PnJKRBaEr6CIyvoVGE2SH-E4a1sQlHccFC0NNYg-0J921NPdpnDXSkigGhuc64THaY9QL6wGMk57yElZCSSAlJSja1xKbu30bs4noagRz2wZC0CKlz6sn6Y7wkn8ST8j1T1Oyoqc8A9Z4RRoUkEwJ4rLj6hmJZBA_p0zY-P1NWeLIoyWoKTtFgOYAf8-y4uZfm8e8kYQWzC1IUgzn9ypcoLaMEbjbhlA9WrObUhJcHESp-DaW_fAGzOlZPBGNu141c1iyYBnQQLFSJGAzfdYN0tBTk=w2222-h1172-no"/>
 
 I came to graduate school with a little bit of computational skills from my informatics minor and year as a lab tech doing genome assembly.
 I'd struggled to learn a lot of computation on my own in my year as a tech and then I saw other students from both my lab and program with little or no training struggle to learn coding.
-I hated that we all 'had' to struggle through it alone.
+No one should have to struggle to learn this alone.
 So at in the fall of 2014, based on an idea from my advisor, I decided to start my own study group around Computational Biology, Ecology and Evolution, [ComBEE](combee).
-My group would meet once a month and talk about metagenomics, 16S amplicon sequencing, making phylogenetic trees.
+The main [ComBEE](combee) group would meet once a month and talk about metagenomics, 16S amplicon sequencing, making phylogenetic trees.
+
 Since none of my labmates at the time used Python, I also was desperate for people to talk Python with.
 So under the [ComBEE](combee) group I started a [Python Study Group](psg), which would meet every other week.
-In 2015 at a [ComBEE](combee) social someone (or several someones) asked that I start an [R Study Group](rsg), that that started to meet on the weeks [Python Study Group](psg)].
+In 2015, at a [ComBEE](combee) social someone (or several someones) asked that I start an [R Study Group](rsg).
+So I started an [R Study Group](rsg) which meets on the weeks opposite [Python Study Group](psg).
 
 Over the years [ComBEE](combee) has changed a bit.
 We had a not-so-great name to start with (more about that below).
@@ -37,22 +42,64 @@ But the group still meets at the same intervals and the most important things ha
 
 ## What I've learned
 
-1. Don't reinvent the wheel
-I'd never really seen a study group before and kind of made it up as I went along but there are resources out there.
-I started out with a sad looking website and a listserv and absolutely no idea what I was doing.
-While I've learned a lot, I recommend starting with the [Mozilla Study Group](mozilla-sg) materials from [Mozilla Science lab](mozilla).
-They have put together a guide on starting your own study group, which includes a nice template for setting up a beautiful website and links to lessons from other study groups. 
-They have community calls with other study group leaders about once a month which I find great for idea and support.
+### Don't re-invent the wheel
 
-Please feel free to comment with other study group guides/materials if you know of them.
+When I started [ComBEE](combee), I'd never really seen a study group before and kind of made it up as I went along but don't do what I did.
+I started out with a sad looking website and an email list and absolutely no idea what I was doing.
+While I've learned a lot, now there are wonderful resources out there to help.
+I recommend starting with the [Mozilla Study Group](mozilla-sg) materials from [Mozilla Science lab](mozilla).
+They have put together a guide on starting your own study group, which even includes a nice template for setting up a beautiful website and links to lessons from other study groups. 
+They also host community calls with other study group leaders around the world once a month which are great for getting ideas and support.
 
-2. Pick a good name
-While this is slightly funny it has actually been a tripping point for our group. MomIEE story and recruiting people outside micro.
-3. Advertise
-4. Delegate!!!
-Both for leadership and for getting people involved and keeping them.
+If you know of other study group resources, please feel free to comment with links below.
+
+### Pick a good name  
+
+When I first started [ComBEE](combee) we were called Molecular Microbial, Ecology, and Evolution for short MoMIEE, pronounced like 'Mommy' (to be like [Mothur](mothur)).
+About 6-9 months later, I advised a labmate that MoMIEE would be a good resource for him to learn some coding.
+He replied with something like, "But I'm not a woman scientist with a child."
+So turns out the name was misleading.
+
+On a more serious note, my co-chair told me that 'Molecular' was turning away genetics students and I suspect that there are others that might be turned away by the name.
+I originally indented this group for researchers in my subfield but Python and R Study meetings are generally useful for anyone starting to code.
+I've gotten a number of emails from people asking if they could come to Python study group even though they didn't study our area.
+I can't imagine the number of people who never even emailed.
+I frequently debate if I should have named the group something more general like the [UofTCoders](UofT) in Toronto.
+
+TL;DR - Think carefully about your group's scope/goals and pick a good name.
+
+### Advertise as widely as possible
+
+Every year at the beginning of the year, I would think of as many email lists as I could and send them a recruiting email.
+Still even this year, we have new people who have come to python study group saying they had never heard of [ComBEE](combee) until this year.
+I also never thought about putting flyers up on the jumbotrons in my building until it was suggested in Python Study Group.
+We've gotten a lot of people in the building that way.
+As far as I can tell, you can't advertise too much.
 
 
+### Don't do it alone! (aka delegate)  
+
+This is the trick to keeping your group running and keeping people coming.
+
+After a couple of semesters, to cut down on my own responsibilities, I decided to ask other students that had participated in Python Study Group to run it for a semester.
+I sell it as a short term, low commitment position which looks great on your CV.
+The most difficult part of getting people to volunteer for this position is convincing them that you don't have to be an expert in Python to run Python Study Group.
+The leaders main responsibilities are to plan topics and facilitate discussion.
+Once convinced, they do a great job and those people often turn into the experienced coders contributing back to the group.
+
+It is also helpful to have others in longer term leadership positions.
+[ComBEE](combee) only has two co-chairs but I've seen that the [UofTCoders](UofT) group has an 'Executive Council' which runs it.
+You do need clear expectations about what each person is responsible for so you don't have end up with ['Diffusion of responsibilities'](DoR) issues but overall it will make your life much easier if you don't run it all yourself.
+
+## Conclusions
+
+**Start a study group!**
+If you see a need in your community or need people to talk to, start a study group!
+It has been an amazing experience for me.
+I've met a lot of great people, learned a lot about coding and leadership, and hopefully helped some others.
+**So start a study group!**
+
+Please feel free to comment with questions or your own experiences!
 
 
 [firstpost]: _posts/2017-10-31-firstpost.md
@@ -63,3 +110,9 @@ Both for leadership and for getting people involved and keeping them.
 [combee]: combee-uw-madison.github.io
 [psg]: https://github.com/ComBEE-UW-Madison/PythonStudyGroup/blob/master/README.md#combee-python-study-group--uw-madison
 [rsg]: https://github.com/ComBEE-UW-Madison/RStudyGroup#combee-r-study-group--uw-madison
+[mothur]: https://www.mothur.org/
+[UofT]: https://uoftcoders.github.io/
+[DoR]: https://en.wikipedia.org/wiki/Diffusion_of_responsibility
+
+
+
