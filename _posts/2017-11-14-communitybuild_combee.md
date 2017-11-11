@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Community Building - Starting A Study Group
 author: Sarah Stevens
-date: 2017-11-11
+date: 2017-11-14
 ---
 
 To start with, **many thanks** to all the people who posted encouraging comments on my [first post](firstpost).
