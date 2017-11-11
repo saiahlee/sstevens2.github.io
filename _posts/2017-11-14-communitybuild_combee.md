@@ -11,9 +11,9 @@ I really appreciate all the support and shared experiences.
 
 ## The need for study groups
 
-Turns out, many(most?) biologists need computation but most of us aren't trained in doing computation.
+Turns out, many(most?) biologists need computation to do our research but most of us aren't trained in doing computation.
 While researchers are very excited about the large amounts of sequencing data that can be generated, we still lack training around using the computational tools needed to analyze such data.
-One of my most common rants is the lack of computational course requirements for undergraduate biology majors but I'll just leave that right here right now.
+One of my most common rants is the lack of computational course requirements for undergraduate biology majors but I'll just leave that right here for now.
 While I think that [Software Carpentry](swc) and [Data Carpentry](dc) workshops are tremendously helpful, researchers need longer term support.
 And along comes study groups.
 One of the things I love about the study group model is that your study group can be whatever the community needs.
