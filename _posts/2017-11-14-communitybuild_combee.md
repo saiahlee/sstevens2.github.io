@@ -12,7 +12,7 @@ I really appreciate all the support and shared experiences.
 ## The need for study groups
 
 Turns out, many(most?) biologists need computation but most of us aren't trained in doing computation.
-While reserachers are very excited about the large amounts of sequencing data that can be generated, we still lack training around using the computational tools need to analyze such data.
+While researchers are very excited about the large amounts of sequencing data that can be generated, we still lack training around using the computational tools needed to analyze such data.
 One of my most common rants is the lack of computational course requirements for undergraduate biology majors but I'll just leave that right here right now.
 While I think that [Software Carpentry](swc) and [Data Carpentry](dc) workshops are tremendously helpful, researchers need longer term support.
 And along comes study groups.
@@ -26,8 +26,8 @@ One of the things I love about the study group model is that your study group ca
 I came to graduate school with a little bit of computational skills from my informatics minor and year as a lab tech doing genome assembly.
 I'd struggled to learn a lot of computation on my own in my year as a tech and then I saw other students from both my lab and program with little or no training struggle to learn coding.
 No one should have to struggle to learn this alone.
-So at in the fall of 2014, based on an idea from my advisor, I decided to start my own study group around Computational Biology, Ecology and Evolution, [ComBEE](combee).
-The main [ComBEE](combee) group would meet once a month and talk about metagenomics, 16S amplicon sequencing, making phylogenetic trees.
+So in the fall of 2014, based on an idea from my advisor, I decided to start my own study group around Computational Biology, Ecology and Evolution, [ComBEE](combee).
+The main [ComBEE](combee) group would meet once a month and talk about metagenomics, 16S amplicon sequencing, making phylogenetic trees, etc.
 
 Since none of my labmates at the time used Python, I also was desperate for people to talk Python with.
 So under the [ComBEE](combee) group I started a [Python Study Group](psg), which would meet every other week.
@@ -44,7 +44,7 @@ But the group still meets at the same intervals and the most important things ha
 
 ### Don't re-invent the wheel
 
-When I started [ComBEE](combee), I'd never really seen a study group before and kind of made it up as I went along but don't do what I did.
+When I started [ComBEE](combee), I'd never seen a study group before and kind of made it up as I went along.
 I started out with a sad looking website and an email list and absolutely no idea what I was doing.
 While I've learned a lot, now there are wonderful resources out there to help.
 I recommend starting with the [Mozilla Study Group](mozilla-sg) materials from [Mozilla Science lab](mozilla).
@@ -55,7 +55,7 @@ If you know of other study group resources, please feel free to comment with lin
 
 ### Pick a good name  
 
-When I first started [ComBEE](combee) we were called Molecular Microbial, Ecology, and Evolution for short MoMIEE, pronounced like 'Mommy' (to be like [Mothur](mothur)).
+When I first started [ComBEE](combee) we were called Molecular Microbial Ecology, and Evolution for short MoMIEE, pronounced like 'Mommy' (to be like [Mothur](mothur)).
 About 6-9 months later, I advised a labmate that MoMIEE would be a good resource for him to learn some coding.
 He replied with something like, "But I'm not a woman scientist with a child."
 So turns out the name was misleading.
@@ -84,7 +84,7 @@ This is the trick to keeping your group running and keeping people coming.
 After a couple of semesters, to cut down on my own responsibilities, I decided to ask other students that had participated in Python Study Group to run it for a semester.
 I sell it as a short term, low commitment position which looks great on your CV.
 The most difficult part of getting people to volunteer for this position is convincing them that you don't have to be an expert in Python to run Python Study Group.
-The leaders main responsibilities are to plan topics and facilitate discussion.
+The leaders' main responsibilities are to plan topics and facilitate discussion.
 Once convinced, they do a great job and those people often turn into the experienced coders contributing back to the group.
 
 It is also helpful to have others in longer term leadership positions.
