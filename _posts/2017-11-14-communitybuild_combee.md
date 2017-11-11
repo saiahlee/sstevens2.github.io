@@ -26,7 +26,7 @@ One of the things I love about the study group model is that your study group ca
 I came to graduate school with a little bit of computational skills from my informatics minor and year as a lab tech doing genome assembly.
 I'd struggled to learn a lot of computation on my own in my year as a tech and then I saw other students from both my lab and program with little or no training struggle to learn coding.
 No one should have to struggle to learn this alone.
-So in the fall of 2014, based on an idea from my advisor, I decided to start my own study group around Computational Biology, Ecology and Evolution, [ComBEE](combee).
+So in the fall of 2014, based on an idea from my advisor, I decided to start my own study group around Computational Biology, Ecology and Evolution, called [ComBEE](combee).
 The main [ComBEE](combee) group would meet once a month and talk about metagenomics, 16S amplicon sequencing, making phylogenetic trees, etc.
 
 Since none of my labmates at the time used Python, I also was desperate for people to talk Python with.
