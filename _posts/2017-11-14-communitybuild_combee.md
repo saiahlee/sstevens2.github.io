@@ -89,7 +89,7 @@ Once convinced, they do a great job and those people often turn into the experie
 
 It is also helpful to have others in longer term leadership positions.
 [ComBEE](combee) only has two co-chairs but I've seen that the [UofTCoders](UofT) group has an 'Executive Council' which runs it.
-You do need clear expectations about what each person is responsible for so you don't have end up with ['Diffusion of responsibilities'](DoR) issues but overall it will make your life much easier if you don't run it all yourself.
+You do need clear expectations about what each person is responsible for so you don't have end up with ['diffusion of responsibilities'](DoR) issues but overall it will make your life much easier if you don't run it all yourself.
 
 ## Conclusions
 
