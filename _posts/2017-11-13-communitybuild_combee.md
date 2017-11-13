@@ -22,7 +22,7 @@ One of the things I love about the study group model is that your study group ca
 
 ## A brief history of ComBEE
 
-<img src="https://drive.google.com/file/d/1waCTAo9gR_EwrrKFpkVoUArimPwCsrgErg/view" alt="ComBEE website screenshot"/>
+![ComBEE website screenshot](ComBEE_website_screenshot.png)
 
 I came to graduate school with some computational skills; python from my informatics minor and some bash and genome assembly methods from the year I spent as a lab tech.
 I'd struggled to learn a lot of these skills on my own in my year as a tech and then in grad school I saw other students from both my lab and program with little or no training struggle to learn coding.
