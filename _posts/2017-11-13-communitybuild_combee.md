@@ -22,7 +22,7 @@ One of the things I love about the study group model is that your study group ca
 
 ## A brief history of ComBEE
 
-![ComBEE website screenshot](ComBEE_website_screenshot.png)
+![ComBEE website screenshot](../images/ComBEE_website_screenshot.png)
 
 I came to graduate school with some computational skills; python from my informatics minor and some bash and genome assembly methods from the year I spent as a lab tech.
 I'd struggled to learn a lot of these skills on my own in my year as a tech and then in grad school I saw other students from both my lab and program with little or no training struggle to learn coding.
@@ -31,7 +31,7 @@ So in the fall of 2014, based on an idea from my advisor, I decided to start my 
 The main [ComBEE](https://combee-uw-madison.github.io/) group would meet once a month and talk about metagenomics, 16S amplicon sequencing, making phylogenetic trees, etc.
 
 Since none of my labmates at the time used Python, I also was desperate for people to talk Python with.
-So under the [ComBEE](https://combee-uw-madison.github.io/) group I started a [Python Study Group](https://github.com/ComBEE-UW-Madison/PythonStudyGroup/blob/master/README.md#combee-python-study-group--uw-madison), which would meet every other week.
+So under the [ComBEE](https://combee-uw-madison.github.io/) group I started a [Python Study Group](https://github.com/ComBEE-UW-Madison/PythonStudyGrooup/blob/master/README.md#combee-python-study-group--uw-madison), which would meet every other week.
 In 2015, at a [ComBEE](https://combee-uw-madison.github.io/) social someone (or several someones) asked that I start an [R Study Group](https://github.com/ComBEE-UW-Madison/RStudyGroup#combee-r-study-group--uw-madison).
 So I started an [R Study Group](https://github.com/ComBEE-UW-Madison/RStudyGroup#combee-r-study-group--uw-madison) which meets on the weeks opposite [Python Study Group](https://github.com/ComBEE-UW-Madison/PythonStudyGroup/blob/master/README.md#combee-python-study-group--uw-madison).
 
