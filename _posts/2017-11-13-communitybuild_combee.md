@@ -27,15 +27,15 @@ One of the things I love about the study group model is that your study group ca
 I came to graduate school with some computational skills; python from my informatics minor and some bash and genome assembly methods from the year I spent as a lab tech.
 I'd struggled to learn a lot of these skills on my own in my year as a tech and then in grad school I saw other students from both my lab and program with little or no training struggle to learn coding.
 No one should have to struggle to learn this alone.
-So in the fall of 2014, based on an idea from my advisor, I decided to start my own study group around Computational Biology, Ecology and Evolution, called [ComBEE](combee-uw-madison.github.io).
-The main [ComBEE](combee-uw-madison.github.io) group would meet once a month and talk about metagenomics, 16S amplicon sequencing, making phylogenetic trees, etc.
+So in the fall of 2014, based on an idea from my advisor, I decided to start my own study group around Computational Biology, Ecology and Evolution, called [ComBEE](https://combee-uw-madison.github.io/).
+The main [ComBEE](https://combee-uw-madison.github.io/) group would meet once a month and talk about metagenomics, 16S amplicon sequencing, making phylogenetic trees, etc.
 
 Since none of my labmates at the time used Python, I also was desperate for people to talk Python with.
-So under the [ComBEE](combee-uw-madison.github.io) group I started a [Python Study Group](https://github.com/ComBEE-UW-Madison/PythonStudyGroup/blob/master/README.md#combee-python-study-group--uw-madison), which would meet every other week.
-In 2015, at a [ComBEE](combee-uw-madison.github.io) social someone (or several someones) asked that I start an [R Study Group](https://github.com/ComBEE-UW-Madison/RStudyGroup#combee-r-study-group--uw-madison).
+So under the [ComBEE](https://combee-uw-madison.github.io/) group I started a [Python Study Group](https://github.com/ComBEE-UW-Madison/PythonStudyGroup/blob/master/README.md#combee-python-study-group--uw-madison), which would meet every other week.
+In 2015, at a [ComBEE](https://combee-uw-madison.github.io/) social someone (or several someones) asked that I start an [R Study Group](https://github.com/ComBEE-UW-Madison/RStudyGroup#combee-r-study-group--uw-madison).
 So I started an [R Study Group](https://github.com/ComBEE-UW-Madison/RStudyGroup#combee-r-study-group--uw-madison) which meets on the weeks opposite [Python Study Group](https://github.com/ComBEE-UW-Madison/PythonStudyGroup/blob/master/README.md#combee-python-study-group--uw-madison).
 
-Over the years [ComBEE](combee-uw-madison.github.io) has changed a bit.
+Over the years [ComBEE](https://combee-uw-madison.github.io/) has changed a bit.
 We had a not-so-great name to start with (more about that below).
 My original co-chair became busy and eventually I found someone else to replace him, with his permission of course.
 This year I found someone to replace me and she made our website much prettier.
@@ -45,7 +45,7 @@ But the group still meets at the same intervals and the most important things ha
 
 ### Don't re-invent the wheel
 
-When I started [ComBEE](combee-uw-madison.github.io), I'd never seen a study group before and kind of made it up as I went along.
+When I started [ComBEE](https://combee-uw-madison.github.io/), I'd never seen a study group before and kind of made it up as I went along.
 I started out with a sad looking website and an email list and absolutely no idea what I was doing.
 While I've learned a lot, now there are wonderful resources out there to help.
 I recommend starting with the [Mozilla Study Group](https://science.mozilla.org/programs/studygroups) materials from [Mozilla Science lab](https://science.mozilla.org/).
@@ -56,7 +56,7 @@ If you know of other study group resources, please feel free to comment with lin
 
 ### Pick a good name  
 
-When I first started [ComBEE](combee-uw-madison.github.io) we were called Molecular Microbial Ecology, and Evolution for short MoMIEE, pronounced like 'Mommy' (to be like [Mothur](https://www.mothur.org/)).
+When I first started [ComBEE](https://combee-uw-madison.github.io/) we were called Molecular Microbial Ecology, and Evolution for short MoMIEE, pronounced like 'Mommy' (to be like [Mothur](https://www.mothur.org/)).
 About 6-9 months later, I advised a labmate that MoMIEE would be a good resource for him to learn some coding.
 He replied with something like, "But I'm not a woman scientist with a child."
 So turns out the name was misleading.
@@ -72,7 +72,7 @@ TL;DR - Think carefully about your group's scope/goals and pick a good name.
 ### Advertise as widely as possible
 
 Every year at the beginning of the year, I would think of as many email lists as I could and send them a recruiting email.
-Still even this year, we have new people who have come to Python Study Group saying they had never heard of [ComBEE](combee-uw-madison.github.io) until this year.
+Still even this year, we have new people who have come to Python Study Group saying they had never heard of [ComBEE](https://combee-uw-madison.github.io/) until this year.
 I also never thought about putting flyers up on the jumbotrons in my building until it was suggested in Python Study Group.
 We've gotten a lot of people in the building that way.
 As far as I can tell, you can't advertise too much.
@@ -89,7 +89,7 @@ The leaders' main responsibilities are to plan topics and facilitate discussion.
 Once convinced, they do a great job and those people often turn into the experienced coders contributing back to the group.
 
 It is also helpful to have others in longer term leadership positions.
-[ComBEE](combee-uw-madison.github.io) only has two co-chairs but I've seen that the [UofTCoders](https://uoftcoders.github.io/) group has an 'Executive Council' which runs it.
+[ComBEE](https://combee-uw-madison.github.io/) only has two co-chairs but I've seen that the [UofTCoders](https://uoftcoders.github.io/) group has an 'Executive Council' which runs it.
 You do need clear expectations about what each person is responsible for so you don't have end up with ['diffusion of responsibilities'](https://uoftcoders.github.io/) issues but overall it will make your life much easier if you don't run it all yourself.
 
 ## Conclusions
