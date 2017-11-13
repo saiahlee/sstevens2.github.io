@@ -11,11 +11,12 @@ I really appreciate all the support and shared experiences.
 
 ## The need for study groups
 
-Turns out, many(most?) biologists need computation to do our research but most of us aren't trained in doing computation.
+Turns out, many(most?) biologists need computation, such as coding, to do our research. 
+But, most of us aren't trained in these computational skills.
 While researchers are very excited about the large amounts of sequencing data that can be generated, we still lack training around using the computational tools needed to analyze such data.
 One of my most common rants is the lack of computational course requirements for undergraduate biology majors but I'll just leave that right here for now.
 While I think that [Software Carpentry](swc) and [Data Carpentry](dc) workshops are tremendously helpful, researchers need longer term support.
-And along comes study groups.
+This is where study groups come in.
 One of the things I love about the study group model is that your study group can be whatever the community needs.
 
 
@@ -23,8 +24,8 @@ One of the things I love about the study group model is that your study group ca
 
 <img src="https://lh3.googleusercontent.com/5A-89J0_N_jh7YZJQlT0r3H0ySIFTyCtFTWXJRu8iQ83NYPcTaGXt58ECnTuy_FNJaQQDWxoocZlCRPJXvTW3HhzNPsx9kwu9Xfl86H8GdTffRBdiYEKLZmBxNM_PPsf3nFLnsNg5LNe9XbaksFWHk7ti9x2455FN13dvBWPEkUfNBwmihAk3ygkSiTxWGQJONQP_niWKA3kkn2dezhpln1nTm8EtG-Nl7l5v_j8CleHvB3PTtS-_IAp8m_d3bcnASma8JGIsfS5BzCYJjvWY89otBEF4MuNN9aXZv04-UIef5HjhcruBRfiSOVsMm-MWinZrOXFYVRB4ibmbI-G9byNc_o6SEl2HtGELYyUOpith-VBYd0JPQvRJBbNZNaiQYOIQ5D_XtPNSEQ2UVKLFos7Dx2u6pmYAUEX67JjUGkri86RSNy7DkesNArV9bvDjj3nba_X92Yr_YnDYHmgDB0OTd06Y9YoDsKOhaiUFXC8i_SxEeSY3y3hfU6wO33MtZqX1XkctTZRNUfY_dIHdj4EVxb9bJuPxFbgo5d93g1fRzhb43FmSXuTCLHbJTZhsufSzYr9-v_wX4b0_2JqBjGljuaUcaKCIeLocib2xQ=w2222-h1172-no" alt="ComBEE website screenshot"/>
 
-I came to graduate school with a little bit of computational skills from my informatics minor and year as a lab tech doing genome assembly.
-I'd struggled to learn a lot of computation on my own in my year as a tech and then I saw other students from both my lab and program with little or no training struggle to learn coding.
+I came to graduate school with some computational skills; python from my informatics minor and some bash and genome assembly methods from the year I spent as a lab tech.
+I'd struggled to learn a lot of these skills on my own in my year as a tech and then in grad school I saw other students from both my lab and program with little or no training struggle to learn coding.
 No one should have to struggle to learn this alone.
 So in the fall of 2014, based on an idea from my advisor, I decided to start my own study group around Computational Biology, Ecology and Evolution, called [ComBEE](combee).
 The main [ComBEE](combee) group would meet once a month and talk about metagenomics, 16S amplicon sequencing, making phylogenetic trees, etc.
@@ -38,7 +39,7 @@ Over the years [ComBEE](combee) has changed a bit.
 We had a not-so-great name to start with (more about that below).
 My original co-chair became busy and eventually I found someone else to replace him, with his permission of course.
 This year I found someone to replace me and she made our website much prettier.
-But the group still meets at the same intervals and the most important things haven't changed: people learn something, support each other's learning, and have long term support for developing their coding skills.
+But the group still meets at the same intervals and the most important things haven't changed: people learn to code or use code better, support each other's learning, and have long-term support for developing their computational skills throughout their project.
 
 ## What I've learned
 
