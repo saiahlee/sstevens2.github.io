@@ -22,7 +22,7 @@ One of the things I love about the study group model is that your study group ca
 
 ## A brief history of ComBEE
 
-<img src="https://lh3.googleusercontent.com/5A-89J0_N_jh7YZJQlT0r3H0ySIFTyCtFTWXJRu8iQ83NYPcTaGXt58ECnTuy_FNJaQQDWxoocZlCRPJXvTW3HhzNPsx9kwu9Xfl86H8GdTffRBdiYEKLZmBxNM_PPsf3nFLnsNg5LNe9XbaksFWHk7ti9x2455FN13dvBWPEkUfNBwmihAk3ygkSiTxWGQJONQP_niWKA3kkn2dezhpln1nTm8EtG-Nl7l5v_j8CleHvB3PTtS-_IAp8m_d3bcnASma8JGIsfS5BzCYJjvWY89otBEF4MuNN9aXZv04-UIef5HjhcruBRfiSOVsMm-MWinZrOXFYVRB4ibmbI-G9byNc_o6SEl2HtGELYyUOpith-VBYd0JPQvRJBbNZNaiQYOIQ5D_XtPNSEQ2UVKLFos7Dx2u6pmYAUEX67JjUGkri86RSNy7DkesNArV9bvDjj3nba_X92Yr_YnDYHmgDB0OTd06Y9YoDsKOhaiUFXC8i_SxEeSY3y3hfU6wO33MtZqX1XkctTZRNUfY_dIHdj4EVxb9bJuPxFbgo5d93g1fRzhb43FmSXuTCLHbJTZhsufSzYr9-v_wX4b0_2JqBjGljuaUcaKCIeLocib2xQ=w2222-h1172-no" alt="ComBEE website screenshot"/>
+<img src="https://drive.google.com/file/d/1waCTAo9gR_EwrrKFpkVoUArimPwCsrgErg/view" alt="ComBEE website screenshot"/>
 
 I came to graduate school with some computational skills; python from my informatics minor and some bash and genome assembly methods from the year I spent as a lab tech.
 I'd struggled to learn a lot of these skills on my own in my year as a tech and then in grad school I saw other students from both my lab and program with little or no training struggle to learn coding.
