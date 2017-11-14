@@ -33,10 +33,10 @@ I spend on average probably 15 min contemplating each tweet because it makes me 
 
 A couple of factors have come together to motivate me to start this blog.
 
-In the past few years, I've gotten involved in some awesome open science communities - [Software Carpentry](https://software-carpentry.org/)/[Data Carpentry](http://www.datacarpentry.org/) and [Mozilla Science Lab](https://science.mozilla.org/).
+In the past few years, I've gotten involved in some awesome open science communities - [Software Carpentry][swc]/[Data Carpentry][dc] and [Mozilla Science Lab][mozilla].
 
-I've learned a lot about how to give and [get feedback](https://carpentries.github.io/instructor-training/06-feedback/) and [creating a positive learning environment](https://carpentries.github.io/instructor-training/08-motivation/) when I learned to be a [Software Carpentry](https://software-carpentry.org/) intructor.
-I started my own [study group](https://science.mozilla.org/programs/studygroups), [ComBEE](https://combee-uw-madison.github.io/), to help create such an environment for biologists (_but you don't have to be a biologist to come to our events_) on my campus who want to learn computational skills.  It is important to me that others don't have bad experiences and become demotivated trying to learn computation/bioinformatics.
+I've learned a lot about how to give and [get feedback][swc-feedback] and [creating a positive learning environment][swc-environment] when I learned to be a [Software Carpentry][swc]) intructor.
+I started my own [study group][mozilla-sg], [ComBEE][combee], to help create such an environment for biologists (_but you don't have to be a biologist to come to our events_) on my campus who want to learn computational skills.  It is important to me that others don't have bad experiences and become demotivated trying to learn computation/bioinformatics.
 I'm hoping through this blog I can share my experiences and help others create a more positive learning atmosphere.
 
 However the final push to start a blog came from a great talk I attended by [Liz Neeley](https://www.storycollider.org/team-bios/liz-neeley) and [Ed Yong](https://www.theatlantic.com/author/ed-yong/) about telling your story.
@@ -63,4 +63,4 @@ Post some encouragement!  While this is obviously a cheap trick for comments, I'
 [mozilla-sg]: https://science.mozilla.org/programs/studygroups
 [swc-environment]: https://carpentries.github.io/instructor-training/08-motivation/
 [swc-feedback]: https://carpentries.github.io/instructor-training/06-feedback/
-[combee]: combee-uw-madison.github.io
+[combee]: https://combee-uw-madison.github.io/
